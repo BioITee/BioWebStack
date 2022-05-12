@@ -1,9 +1,46 @@
-# BioWebStack
+# Hugo 版 WebStack 主题
 
-受 [@郑宝童](https://www.yuque.com/btzheng) 和 [@王诗翔](https://github.com/ShixiangWang) 两位老师的一些文章和讨论影响，加上自己一直以来困惑于收藏夹越来越多，很难找到某个不常用的网站，所以就有了这个网站 —— 希望能将比较常用的资源整理成一个生信导航网页。
+本项目是基于**纯静态**的网址导航网站 [webstack.cc](https://github.com/WebStackPage/WebStackPage.github.io) 制作的 [Hugo](https://gohugo.io/) 主题，其中部分代码参考了以下几个开源项目：<br/>
 
-这里收集的基本都是浏览器收藏夹里生信相关的一些常用网站，我平时用的相对比较多的一些都在这里。
+- [https://github.com/liutongxu/liutongxu.github.io](https://github.com/liutongxu/liutongxu.github.io)
+- [https://github.com/iplaycode/webstack-hugo](https://github.com/iplaycode/webstack-hugo)
 
-如果你也是做生信研究，如果你也正好喜欢学习生信，那希望这个网站能给你带来一些作用。
+<br/>
 
-如果你网站推荐你可以发送邮件给 [shenlab@foxmail.com](https://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=gfLp5O-t4OPB5_757ODo7a-i7uw)，主题：网址推荐+网址链接+网址简单描述
+主题安装后，将 exampleSite 目录下的文件复制到 hugo 站点根目录，根据需要把 config.toml 的一些信息改成自己的，导航的网址信息可通过 data 目录下 webstack.yml 修改。
+
+具体执行步骤如下：
+
+- 克隆仓库
+
+```
+$ git clone https://github.com/shenweiyan/webstack-hugo.git
+```
+
+- 进入 exampleSite 目录执行 hugo server
+
+```
+$ cd webstack-hugo/exampleSite/
+$ hugo server --themesDir ../..
+
+# 如果你知道你的公网 ip, 如下面的 132.76.230.31, 可以使用下面的方式执行 hugo server
+$ hugo server --baseUrl=132.76.230.31 --bind=0.0.0.0 --themesDir ../..
+```
+
+这是一个开源的公益项目，你可以拿来制作自己的网址导航，也可以做与导航无关的网站。
+
+WebStack 有非常多的魔改版本，这是其中一个。如果你对本主题进行了一些个性化调整，欢迎来本项目中 issue 分享一下！
+
+<br/>
+
+### 主题开源地址
+
+[https://github.com/shenweiyan/webstack-hugo](https://github.com/shenweiyan/webstack-hugo)
+
+<br/>
+
+### 主题演示地址
+
+- [https://nav.bioitee.com](https://nav.bioitee.com)
+- [https://shenweiyan.github.io/webstack-hugo](https://shenweiyan.github.io/webstack-hugo)
+
