@@ -5,7 +5,7 @@ theme = "WebStack-Hugo"
 preserveTaxonomyNames = true
 disablePathToLower = true
 hasCJKLanguage = true
-publishDir = "public"
+publishDir = "docs"
 
 [params]
     author        = "shenweiyan"
