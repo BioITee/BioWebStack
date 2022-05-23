@@ -26,7 +26,7 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3	# 一个自动发布github pages的action
         with:
-          external_repository: shenweiyan/BioWebStack	# 发布到哪个repo
+          external_repository: bioitee/BioWebStack	# 发布到哪个repo
           #1. 创建Personal_Access_Token：GitHub 个人账号 -> Settings -> Developer settings -> Personal access tokens
           #2. 粘贴Personal_Access_Token：进入源repo(Nav.Bioitee.Src) -> Settings -> Secrets一栏，选择 New repository secret -> 粘贴personal_token
           personal_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}	# 发布到其他repo需要提供上面生成的personal access token
