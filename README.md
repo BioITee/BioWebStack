@@ -4,7 +4,7 @@
 
 # 致谢
 
-本项目是基于**纯静态**的网址导航网站 [WebStack-Hugo](https://github.com/shenweiyan/webstack-hugo) 主题制作。
+感谢 [@Shenweiyan](https://github.com/shenweiyan) 的 [WebStack-Hugo](https://github.com/shenweiyan/webstack-hugo) 主题。
 
 感谢 [@ShixiangWang](https://github.com/ShixiangWang) 的 [生信导航](https://github.com/BioSisyphus/guide) 项目。
 
