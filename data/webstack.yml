@@ -3,18 +3,6 @@
 - taxonomy: 常用推荐
   icon: far fa-star
   links: 
-    - title: BioIT爱好者
-      logo: 语雀.jpg
-      url: https://www..com/
-      description: BioIT爱好者语雀社区。
-    - title: CODING
-      logo: coding.png
-      url: https://coding.net/
-      description: 一站式软件研发管理平台。
-    - title: GitHub
-      logo: github.png
-      url: https://github.com/
-      description: GitHub 开源社区。
     - title: NCBI
       logo: ncbi.jpg
       url: https://www.ncbi.nlm.nih.gov/
