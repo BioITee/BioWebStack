@@ -25,8 +25,8 @@ publishDir = "docs"
 
 [params.images]
     favicon           = "https://nav-hub-1251708715.cos.ap-guangzhou.myqcloud.com/favicon.png"
-    searchImageL      = "https://nav-hub-1251708715.cos.ap-guangzhou.myqcloud.com/bg-bio.jpg"		#搜索部分浅色背景图
-    searchImageD      = "https://nav-hub-1251708715.cos.ap-guangzhou.myqcloud.com/bg-bio.jpg"		#搜索部分深色背景图
+    searchImageL      = "https://raw.githubusercontent.com/shenweiyan/CustomAssets/main/NavHUB/sites/bg-dna.jpg"		#搜索部分浅色背景图
+    searchImageD      = "https://raw.githubusercontent.com/shenweiyan/CustomAssets/main/NavHUB/sites/bg-dna.jpg"		#搜索部分深色背景图
     logoExpandLight   = "https://nav-hub-1251708715.cos.ap-guangzhou.myqcloud.com/bioitee-expand-light.png"
     logoExpandDark    = "https://nav-hub-1251708715.cos.ap-guangzhou.myqcloud.com/bioitee-expand-dark.png"
     logoCollapseLight = "https://nav-hub-1251708715.cos.ap-guangzhou.myqcloud.com/logo-collapse-light.png"
