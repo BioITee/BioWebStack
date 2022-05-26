@@ -15,7 +15,7 @@ publishDir = "docs"
     repository    = "https://github.com/shenweiyan/WebStack-Hugo"	
     enablePreLoad = true	# 网站完全打开前预加载的动画
     textPreLoad   = "生信网址导航"	# 预加载的动画文字, 只有当enablePreLoad=true时生效
-    logosPath     = "https://raw.githubusercontent.com/shenweiyan/CustomAssets/main/NavHUB/logos"	#网站每个导航地址logo存放地址
+    logosPath     = "https://static.bioitee.com/webstack/logos"	#网站每个导航地址logo存放地址
 
 [markup.goldmark.renderer]
     unsafe = true
