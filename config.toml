@@ -1,6 +1,6 @@
 baseURL = "https://hao.bioitee.com"
 languageCode = "zh-CN"
-title = "Bio & IT 网址导航 | Hugo 主题"
+title = "生信网址导航 | BioWebStack"
 theme = "WebStack-Hugo"
 preserveTaxonomyNames = true
 disablePathToLower = true
@@ -9,12 +9,12 @@ publishDir = "docs"
 
 [params]
     author        = "shenweiyan"
-    description   = "Webstack Hugo 网址导航 | Bio IT 爱好者"
+    description   = "生信网址导航 | Bio IT 爱好者"
     siteurl       = "./"
-    about         = "https://www.yuque.com/shenweiyan/cookbook/webstack-hugo"	# 左侧导航栏的"关于我们"页面(./about)
+    about         = "https://www.yuque.com/shenweiyan/cookbook/biowebstack"	# 左侧导航栏的"关于我们"页面(./about)
     repository    = "https://github.com/shenweiyan/WebStack-Hugo"	
     enablePreLoad = true	# 网站完全打开前预加载的动画
-    textPreLoad   = "Bio & IT 网址导航"	# 预加载的动画文字, 只有当enablePreLoad=true时生效
+    textPreLoad   = "生信网址导航"	# 预加载的动画文字, 只有当enablePreLoad=true时生效
     logosPath     = "https://raw.githubusercontent.com/shenweiyan/CustomAssets/main/NavHUB/logos"	#网站每个导航地址logo存放地址
 
 [markup.goldmark.renderer]
