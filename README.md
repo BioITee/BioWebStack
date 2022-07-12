@@ -13,7 +13,7 @@
 
 如果你也是做生信研究，如果你也正好喜欢学习生信，那希望这个网站能给你带来一些作用。如果你网站推荐你可以发送邮件给 [shumlab@foxmail.com](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=shumlab@foxmail.com)，主题：网址推荐+网址链接+网址简单描述
 
-任何建议都可以微信（ishenweiyan）或者邮件（[shenlab@foxmail.com](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=shumlab@foxmail.com)）与我交流。
+任何建议都可以微信（ishenweiyan）或者邮件（[shumlab@foxmail.com](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=shumlab@foxmail.com)）与我交流。
 
 # 更新
 本项目正在持续更新中......
