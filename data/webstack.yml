@@ -190,6 +190,18 @@
           logo: 谢益辉.png 
           url: https://yihui.org/
           description: 谢益辉的个人网站。
+        - title: 生信菜鸟团
+          url: http://www.bio-info-trainee.com/
+          logo: 生信菜鸟团.jpg
+          description: Jimmy 的个人博客笔记。
+        - title: 思考问题的熊
+          url: https://kaopubear.top/
+          logo: kaopubear.png
+          description: 中科院生物信息学博士，生物医疗相关。
+        - title: 徐洲更的第二大脑
+          url: https://xuzhougeng.top/
+          logo: 徐洲更.jpg
+          description: 中科院博士，编程技术爱好者。
     - term: 书籍文档
       links:
         - title: 微信读书
@@ -240,6 +252,24 @@
           logo: AlmaLinux.png
           url: https://almalinux.org/
           description: AlmaLinux OS. 
+    - term: 生信论坛
+      links:
+        - title: Biostars
+          url: https://www.biostars.org/
+          logo: biostars.png
+          description: Bioinformatics Answers.
+        - title: OmicShare Forum
+          url: https://www.omicshare.com/forum/forum.php
+          logo: 基迪奥.png
+          description: 广州基迪奥生物信息论坛。
+        - title: 生信技能树
+          url: http://www.biotrainee.com/
+          logo: 生信技能树.jpg
+          description: 帮助每一位生信人构建最完善的生信技能树。
+        - title: BioLinkX
+          url: https://biolinkx.cn/
+          logo: biolinks.png
+          description: BioLinkX 生物信息学协会。
     - term: 技术社区
       links:
         - title: 开源中国
