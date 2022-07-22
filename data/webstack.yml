@@ -324,6 +324,10 @@
           url: https://bbs.pinggu.org/
           logo: 经管之家.jpg
           description: 国内活跃的经济、管理、金融、统计在线教育和咨询网站。  
+        - title: 统计之都
+          url: https://cosx.org/
+          logo: 统计之都.png
+          description: 一个旨在推广与应用统计学知识的网站和社区。
     - term: 悠闲平台
       links:
         - title: 中羽在线社区
