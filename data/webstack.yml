@@ -337,7 +337,15 @@
         - title: 豆瓣
           logo: 豆瓣.jpg
           url: https://www.douban.com/
-          description: 豆瓣社区。         
+          description: 豆瓣社区。    
+        - title: 虎扑社区
+          url: https://bbs.hupu.com/
+          logo: 虎扑.png
+          description: 以体育赛事和日常生活为主的专业直文化社区。
+        - title: NGA 玩家社区
+          url: https://bbs.nga.cn/
+          logo: nga.png
+          description: 国内专业的游戏玩家社区。
         
 - taxonomy: 悠闲娱乐
   icon: fas fa-coffee fa-lg
