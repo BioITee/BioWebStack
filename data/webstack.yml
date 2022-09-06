@@ -19,6 +19,10 @@
       logo: ddbj.png
       url: https://www.ddbj.nig.ac.jp/index-e.html
       description: DNA Data Bank of Japan.
+    - title: 'Bio IT网址导航'
+      logo: bt.png
+      url: https://nav.bioitee.com
+      description: 个人版 WebStack-Hugo 网址导航。
 
 - taxonomy: 科研服务
   icon: fas fa-flask fa-lg
@@ -80,7 +84,7 @@
           url: https://www.huaweicloud.com/
           description: 提供云计算服务+智能，见未来-华为云。
         - title: 云筏科技
-          logo: default_url.ico
+          logo: default_url.webp
           url: https://www.cloudraft.cn/
           description: 云筏 - 科研云。
         - title: 极云普惠云电脑
@@ -184,7 +188,7 @@
       links:
         - title: 酷壳
           url: https://www.coolshell.cn/
-          logo: default_url.ico
+          logo: default_url.webp
           description: 酷壳 – CoolShell。
         - title: "Yihui Xie | 谢益辉"
           logo: 谢益辉.png 
@@ -274,7 +278,7 @@
       links:
         - title: 开源中国
           url: https://www.oschina.net/
-          logo: oschina.png
+          logo: 开源中国.webp
           description: 中文开源技术交流社区。
         - title: 'Stack Overflow'
           url: https://stackoverflow.com/
@@ -394,7 +398,7 @@
       links:
         - title: 语雀
           url: https://www.yuque.com/
-          logo: 语雀.jpg
+          logo: 语雀.webp
           description: 专业的云端知识库。
         - title: 石墨文档
           url: https://shimo.im/

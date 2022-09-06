@@ -1,0 +1,16 @@
+- item: 首页
+  icon: fa fa-home
+  link: "./"
+
+- item: 作者
+  icon: fa fa-book
+  link: https://www.yuque.com/shenweiyan
+
+- item: 开源
+  icon: fa fa-cog
+  link: ""
+  list:
+    - name: 关于
+      url: "https://www.yuque.com/shenweiyan/cookbook/biowebstack"
+    - name: 源码
+      url: "https://github.com/bioitee/BioWebStack"
