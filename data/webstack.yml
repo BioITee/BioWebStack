@@ -26,7 +26,7 @@
     - title: 关注我们
       logo: ""
       url: https://bioitee.com
-      qrcode: qrcode.jpg
+      qrcode: https://static.bioitee.com/webstack/logos/qrcode.jpg
       description: BioIT 爱好者！
 
 - taxonomy: 科研服务
