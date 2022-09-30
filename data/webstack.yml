@@ -23,6 +23,11 @@
       logo: webstack.png
       url: https://nav.bioitee.com
       description: 个人版 WebStack-Hugo 网址导航。
+    - title: 关注我们
+      logo: ""
+      url: https://bioitee.com
+      qrcode: qrcode.jpg
+      description: BioIT 爱好者！
 
 - taxonomy: 科研服务
   icon: fas fa-flask fa-lg
