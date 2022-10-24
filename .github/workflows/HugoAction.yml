@@ -15,8 +15,8 @@ jobs:
          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
       - name: Setup Hugo	# 步骤名自取
-        uses: soleo/actions-hugo@v3.0.0
-        #uses: peaceiris/actions-hugo@v2.4.13	# hugo官方提供的action，用于在任务环境中获取hugo
+        #uses: soleo/actions-hugo@v3.0.0
+        uses: peaceiris/actions-hugo@v2	  # hugo官方提供的action，用于在任务环境中获取hugo
         with:
           hugo-version: '0.59.0'	# 获取指定版本的hugo
           # extended: true
@@ -25,7 +25,7 @@ jobs:
         run: hugo --minify	# 使用 hugo 构建静态网页
 
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v2	# 一个自动发布github pages的action
+        uses: peaceiris/actions-gh-pages@v3  	# 一个自动发布github pages的action
         with:
           external_repository: bioitee/BioWebStack	# 发布到哪个repo
           #1. 创建Personal_Access_Token：GitHub 个人账号 -> Settings -> Developer settings -> Personal access tokens
