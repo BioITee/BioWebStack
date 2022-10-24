@@ -138,6 +138,7 @@
           url: http://www2.heatmapper.ca/expression/
           description: 免费的在线的聚类图绘制。
     - term: 文献互助
+      links: 
         - title: 科研通
           logo: 科研通.png
           url: https://www.ablesci.com/
