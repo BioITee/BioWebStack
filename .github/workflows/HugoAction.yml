@@ -16,7 +16,7 @@ jobs:
 
       - name: Setup Hugo	# 步骤名自取
         #uses: soleo/actions-hugo@v3.0.0
-        uses: peaceiris/actions-hugo@v2	  # hugo官方提供的action，用于在任务环境中获取hugo
+        uses: peaceiris/actions-hugo@v2.6.0	  # hugo官方提供的action，用于在任务环境中获取hugo
         with:
           hugo-version: '0.59.0'	# 获取指定版本的hugo
           # extended: true
