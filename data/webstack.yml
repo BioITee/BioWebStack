@@ -122,6 +122,7 @@
           url: http://www2.heatmapper.ca/expression/
           description: 免费的在线的聚类图绘制。
     - term: 科研在线
+      links:
         - title: NCBI BLAST
           logo: blast.png
           url: https://blast.ncbi.nlm.nih.gov/Blast.cgi
