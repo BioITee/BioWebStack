@@ -32,12 +32,8 @@
 - taxonomy: 科研服务
   icon: fas fa-flask fa-lg
   list:
-    - term: 在线科研
+    - term: 服务站点
       links:
-        - title: NCBI BLAST
-          logo: blast.png
-          url: https://blast.ncbi.nlm.nih.gov/Blast.cgi
-          description: NCBI 的 BLAST 序列比对工具。
         - title: Bioconda
           logo: bioconda.jpg
           url: https://anaconda.org/bioconda/
@@ -50,10 +46,6 @@
           logo: gitter.jpg
           url: https://gitter.im/galaxyproject
           description: Galaxy Gitter Community.
-        - title: Galaxy Main
-          logo: galaxy_project.png
-          url: https://usegalaxy.org/
-          description: Use Galaxy Main server.
         - title: Galaxy Project
           logo: galaxy-logo.jpg
           url: https://galaxyproject.org/
@@ -66,14 +58,6 @@
           logo: bioconductor.jpg
           url: http://www.bioconductor.org/
           description: http://www.bioconductor.org
-        - title: RNAfold WebServer
-          logo: rnafold.jpg
-          url: http://rna.tbi.univie.ac.at/cgi-bin/RNAWebSuite/RNAfold.cgi
-          description: RNA 分子二级结构预测。
-        - title: LinearDesign
-          url: http://rna.baidu.com/
-          logo: lineardesign.jpg
-          description: 百度 mRNA 序列设计优化算法。
     - term: 云服务器
       links:
         - title: 阿里云
@@ -137,6 +121,27 @@
           logo: cluster.jpg
           url: http://www2.heatmapper.ca/expression/
           description: 免费的在线的聚类图绘制。
+    - term: 科研在线
+        - title: NCBI BLAST
+          logo: blast.png
+          url: https://blast.ncbi.nlm.nih.gov/Blast.cgi
+          description: NCBI 的 BLAST 序列比对工具。
+        - title: Galaxy Main
+          logo: galaxy_project.png
+          url: https://usegalaxy.org/
+          description: Use Galaxy Main server.
+        - title: RNAfold WebServer
+          logo: rnafold.jpg
+          url: http://rna.tbi.univie.ac.at/cgi-bin/RNAWebSuite/RNAfold.cgi
+          description: RNA 分子二级结构预测。
+        - title: LinearDesign
+          url: http://rna.baidu.com/
+          logo: lineardesign.jpg
+          description: 百度 mRNA 序列设计优化算法。
+        - title: 临床生信之家
+          url: https://www.aclbi.com/
+          logo: 临床生信之家.jpg
+          description: 生信之美，每一个科研者都值得拥有。
     - term: 文献互助
       links: 
         - title: 科研通
