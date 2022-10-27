@@ -10,8 +10,9 @@ jobs:
     runs-on: ubuntu-20.04	# 在什么环境运行任务
     steps:
       - uses: actions/checkout@v2	# 引用actions/checkout这个action，与所在的github仓库同名
+      - uses: actions/setup-node@v2
         with:
-         node-version: 16
+         node-version: '16.x'
          submodules: true  # Fetch Hugo themes (true OR recursive) 获取submodule主题
          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
