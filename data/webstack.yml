@@ -153,10 +153,14 @@
           logo: 科研通.png
           url: https://www.ablesci.com/
           description: 文献互助平台，提供免费智能化文献下载服务。
-        - title: Sci-Hub
+        - title: SCI-Hub-se
           logo: sci-hub.jpg
           url: https://sci-hub.se/
           description: 将知识带给每个人。
+        - title: 中国知网
+          logo: 知网.jpg
+          url: https://www.cnki.net/
+          description: 中国知网知识发现网络平台。
 
 - taxonomy: 码农专区
   icon: fas fa-bug fa-lg
