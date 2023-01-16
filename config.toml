@@ -1,11 +1,11 @@
-baseURL = "https://hao.bioitee.com"
-languageCode = "zh-CN"
-title = "生信网址导航 | BioWebStack"
-theme = "WebStack-Hugo"
+baseURL               = "https://bioit.top/"
+languageCode          = "zh-CN"
+title                 = "生信网址导航 | BioWebStack"
+theme                 = "WebStack-Hugo"
 preserveTaxonomyNames = true
-disablePathToLower = true
-hasCJKLanguage = true
-publishDir = "docs"
+disablePathToLower    = true
+hasCJKLanguage        = true
+publishDir            = "docs"
 
 [params]
     author        = "shenweiyan"
