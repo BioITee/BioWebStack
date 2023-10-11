@@ -1,4 +1,4 @@
-baseURL               = "https://bioit.top/"
+baseURL               = "https://hao.bioitee.com/"
 languageCode          = "zh-CN"
 title                 = "生信网址导航 | BioWebStack"
 theme                 = "WebStack-Hugo"
