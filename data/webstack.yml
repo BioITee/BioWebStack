@@ -135,10 +135,18 @@
           logo: blast.png
           url: https://blast.ncbi.nlm.nih.gov/Blast.cgi
           description: NCBI 的 BLAST 序列比对工具。
+        - title: Galaxy China
+          logo: galaxy_project.png
+          url: https://usegalaxy.cn/
+          description: Galaxy 中文镜像。
         - title: Galaxy Main
           logo: galaxy_project.png
           url: https://usegalaxy.org/
           description: Use Galaxy Main server.
+        - title: Galaxy European
+          logo: galaxy_project.png
+          url: https://usegalaxy.eu/
+          description: The European Galaxy server.
         - title: RNAfold WebServer
           logo: rnafold.jpg
           url: http://rna.tbi.univie.ac.at/cgi-bin/RNAWebSuite/RNAfold.cgi
