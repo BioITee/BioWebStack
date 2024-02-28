@@ -18,12 +18,46 @@
     - title: DDBJ
       logo: ddbj.png
       url: https://www.ddbj.nig.ac.jp/index-e.html
-      description: DNA Data Bank of Japan.
+      description: "DNA Data Bank of Japan."
+    - title: Ensembl Plant
+      logo: plants.ensembl.png
+      url: https://plants.ensembl.org/index.html
+      description: 植物基因组学数据库。
+    - title: CNCB
+      logo: cncb.png
+      url: https://www.cncb.ac.cn
+      description: 国家生物信息中心。
     - title: 关注我们
       logo: ""
       url: https://bioitee.com
       qrcode: https://static.bioitee.com/webstack/logos/qrcode.jpg
       description: '公众号: BioIT爱好者！'
+
+- taxonomy: 生物数据库
+  icon: fas fa-dna fa-lg
+  list:
+    - term: 蛋白质数据库
+      links:
+        - title: Human protein atlas
+          logo: proteinatlas.ico
+          url: https://www.proteinatlas.org/
+          description: "The open access resource for human proteins."
+        - title: Interpro
+          logo: interpro.ico
+          url: https://www.ebi.ac.uk/interpro/
+          description: "Classification of protein families."
+        - title: PDB
+          logo: pdb.png
+          url: https://www.rcsb.org/
+          description: "蛋白质结构数据库。"
+        - title: PIR
+          logo: PIR.png
+          url: https://proteininformationresource.org/pirwww/dbinfo/iproclass.shtml
+          description: "Protein Information Resource."
+        - title: Antibodies
+          logo: antibodies.png
+          url: http://www.bioinf.org.uk/abs/
+          description: "Information data on antibodies."
 
 - taxonomy: 科研服务
   icon: fas fa-flask fa-lg
