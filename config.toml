@@ -17,8 +17,8 @@ publishDir            = "docs"
     enablePreLoad = true	                                              # 网站完全打开前预加载的动画
     textPreLoad   = "生信网址导航"	                                      # 预加载的动画文字, 只有当enablePreLoad=true时生效
     expandSidebar = false                                                     # 默认展开左侧边导航栏
-    logosPath     = "https://res.bioitee.com/logos"	              # 网站每个导航地址logo存放地址
-    defaultLogo   = "https://res.bioitee.com/logos/default.webp"  # logo图片资源不存在或者错误时, 默认显示的logo; 该参数如为空,将会一直加载对应的logo,直至成功
+    logosPath     = "img/logos"	              # 网站每个导航地址logo存放地址
+    defaultLogo   = "img/logos/default.webp"  # logo图片资源不存在或者错误时, 默认显示的logo; 该参数如为空,将会一直加载对应的logo,直至成功
     baiduhmid     = '6eb87932f29f7e3a58bf1a37a1696810'                        # 百度统计 hm.src 的 ID
 
 [markup.goldmark.renderer]
@@ -28,13 +28,13 @@ publishDir            = "docs"
     key = "085791e805a24491b43b06cf58ab31e7"
 
 [params.images]
-    favicon           = "https://res.bioitee.com/sites/bi-favicon.png"
-    searchImageL      = "https://res.bioitee.com/sites/bg-dna.jpg"		#搜索部分浅色背景图
-    searchImageD      = "https://res.bioitee.com/sites/bg-dna.jpg"		#搜索部分深色背景图
-    logoExpandLight   = "https://res.bioitee.com/sites/biwebstack-l.png"
-    logoExpandDark    = "https://res.bioitee.com/sites/biwebstack-d.png"
-    logoCollapseLight = "https://res.bioitee.com/sites/bi-logo.png"
-    logoCollapseDark  = "https://res.bioitee.com/sites/bi-logo.png"
+    favicon           = "img/sites/bi-favicon.png"
+    searchImageL      = "img/sites/bg-dna.jpg"		#搜索部分浅色背景图
+    searchImageD      = "img/sites/bg-dna.jpg"		#搜索部分深色背景图
+    logoExpandLight   = "img/sites/biwebstack-l.png"
+    logoExpandDark    = "img/sites/biwebstack-d.png"
+    logoCollapseLight = "img/sites/bi-logo.png"
+    logoCollapseDark  = "img/sites/bi-logo.png"
 
 [params.footer]
     copyright = '本站内容源自互联网，如有内容侵犯了你的权益，请联系删除相关内容，联系邮箱：<a href="mailto:shen@weiyan.tech?subject=生信网址导航意见反馈" target="_blank">shen@weiyan.tech</a> <br/>&copy; 2021 - {year} By [WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) | [Bio IT 爱好者](https://www.bioitee.com/) | [粤ICP备16023717号](http://beian.miit.gov.cn/)<br/>Powered by [GitHub Pages](https://github.com/bioitee/BioWebStack) <br/><a href="https://tongji.baidu.com/" target="_blank"><img border="0" src="https://tongji.baidu.com/sc-web/image/icon/31.gif" alt="百度统计" title="百度统计"></a>'
