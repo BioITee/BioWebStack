@@ -20,15 +20,15 @@
       url: https://www.ddbj.nig.ac.jp/index-e.html
       description: "DNA Data Bank of Japan."
     - title: Ensembl Plant
-      logo: plants.ensembl.png
+      logo: ensembl.webp
       url: https://plants.ensembl.org/index.html
       description: 植物基因组学数据库。
     - title: CNCB
-      logo: cncb.png
+      logo: cncb.webp
       url: https://www.cncb.ac.cn
       description: 国家生物信息中心。
     - title: 关注我们
-      logo: ""
+      logo: qrcode.jpg
       url: https://bioitee.com
       qrcode: https://static.bioitee.com/webstack/logos/qrcode.jpg
       description: '公众号: BioIT爱好者！'
@@ -39,23 +39,23 @@
     - term: 蛋白质数据库
       links:
         - title: Human protein atlas
-          logo: proteinatlas.ico
+          logo: proteinatlas.webp
           url: https://www.proteinatlas.org/
           description: "The open access resource for human proteins."
         - title: Interpro
-          logo: interpro.ico
+          logo: interpro.webp
           url: https://www.ebi.ac.uk/interpro/
           description: "Classification of protein families."
         - title: PDB
-          logo: pdb.png
+          logo: pdb.webp
           url: https://www.rcsb.org/
           description: "蛋白质结构数据库。"
         - title: PIR
-          logo: PIR.png
+          logo: pir.webp
           url: https://proteininformationresource.org/pirwww/dbinfo/iproclass.shtml
           description: "Protein Information Resource."
         - title: Antibodies
-          logo: antibodies.png
+          logo: antibodies.webp
           url: http://www.bioinf.org.uk/abs/
           description: "Information data on antibodies."
 
@@ -103,15 +103,15 @@
           url: https://www.huaweicloud.com/
           description: 提供云计算服务+智能，见未来-华为云。
         - title: 七牛云
-          logo: 七牛云.jpg
+          logo: q/qiniu.jpg
           url: https://www.qiniu.com/
           description: 一站式场景化智能视频云。
         - title: 京东云
-          logo: 京东云.jpg
+          logo: j/jdcloud.jpg
           url: https://www.jdcloud.com/
           description: 京东科技集团旗下领先的云计算品牌。
         - title: 云筏科技
-          logo: default_url.webp
+          logo: c/cloudraft.webp
           url: https://www.cloudraft.cn/
           description: 云筏 - 科研云。
         - title: 极云普惠云电脑
@@ -160,7 +160,7 @@
           url: http://www2.heatmapper.ca/expression/
           description: 免费的在线的聚类图绘制。
         - title: 微生信
-          logo: 微生信.png
+          logo: w/weishengxin.webp
           url: http://www.bioinformatics.com.cn/
           description: 您身边的数据分析、可视化专家。
     - term: 科研在线
@@ -182,29 +182,29 @@
           url: https://usegalaxy.eu/
           description: The European Galaxy server.
         - title: RNAfold WebServer
-          logo: rnafold.jpg
+          logo: r/rna-tbi.webp
           url: http://rna.tbi.univie.ac.at/cgi-bin/RNAWebSuite/RNAfold.cgi
           description: RNA 分子二级结构预测。
-        - title: LinearDesign
+        - title: '螺旋桨 - PaddleHelix'
           url: http://rna.baidu.com/
-          logo: lineardesign.jpg
-          description: 百度 mRNA 序列设计优化算法。
+          logo: r/rna-baidu.webp
+          description: 百度飞桨深度学习框架。
         - title: 临床生信之家
           url: https://www.aclbi.com/
-          logo: 临床生信之家.jpg
+          logo: aclbi.jpg
           description: 生信之美，每一个科研者都值得拥有。
     - term: 文献互助
       links: 
         - title: 科研通
-          logo: 科研通.png
+          logo: a/ablesci.png
           url: https://www.ablesci.com/
           description: 文献互助平台，提供免费智能化文献下载服务。
         - title: SCI-Hub-se
-          logo: sci-hub.jpg
+          logo: s/sci-hub.jpg
           url: https://sci-hub.se/
           description: 将知识带给每个人。
         - title: 中国知网
-          logo: 知网.jpg
+          logo: c/cnki.jpg
           url: https://www.cnki.net/
           description: 中国知网知识发现网络平台。
 
@@ -218,7 +218,7 @@
           url: https://github.com/
           description: GitHub 开源社区。
         - title: 码云
-          logo: gitee.webp
+          logo: g/gitee.webp
           url: https://gitee.com/
           description: 基于 Git 的代码托管和研发协作平台。
         - title: CODING
@@ -226,7 +226,7 @@
           url: https://coding.net/
           description: 一站式软件研发管理平台。 
         - title: 极狐
-          logo: gitlab.webp
+          logo: g/gitlab.webp
           url: https://gitlab.cn/
           description: 极狐GitLab 一体化 DevOps 平台。
 
@@ -244,15 +244,15 @@
           url: http://fanyi.youdao.com/
           description: 有道翻译。
         - title: 谷歌翻译
-          logo: 谷歌翻译.jpg
+          logo: t/translate-google.png
           url: https://translate.google.com.hk/
           description: 谷歌翻译。
         - title: 百度翻译
-          logo: 百度翻译.png
+          logo: f/fanyi-baidu.png
           url: https://fanyi.baidu.com/
           description: "200 种语言互译、沟通全世界！"
         - title: DeeL 翻译
-          logo: deepl.svg
+          logo: d/deepl.svg
           url: https://www.deepl.com/translator
           description: 全世界最准确的翻译。
     - term: 周刊杂志
@@ -293,23 +293,23 @@
       links:
         - title: 酷壳
           url: https://www.coolshell.cn/
-          logo: default_url.webp
+          logo: c/coolshell.webp
           description: 酷壳 – CoolShell。
         - title: "Yihui Xie | 谢益辉"
-          logo: 谢益辉.png 
+          logo: 谢益辉.png
           url: https://yihui.org/
           description: 谢益辉的个人网站。
         - title: 生信菜鸟团
           url: http://www.bio-info-trainee.com/
-          logo: 生信菜鸟团.jpg
+          logo: b/bio-info-trainee.png
           description: Jimmy 的个人博客笔记。
         - title: 思考问题的熊
           url: https://kaopubear.top/
-          logo: kaopubear.png
+          logo: k/kaopubear.png
           description: 中科院生物信息学博士，生物医疗相关。
         - title: 徐洲更的第二大脑
           url: https://xuzhougeng.top/
-          logo: 徐洲更.jpg
+          logo: x/xuzhougeng.webp
           description: 中科院博士，编程技术爱好者。
     - term: 书籍文档
       links:
@@ -365,29 +365,33 @@
       links:
         - title: Biostars
           url: https://www.biostars.org/
-          logo: biostars.png
+          logo: b/biostars.png
           description: Bioinformatics Answers.
         - title: OmicShare Forum
           url: https://www.omicshare.com/forum/forum.php
-          logo: 基迪奥.png
+          logo: o/omicshare-forum.png
           description: 广州基迪奥生物信息论坛。
         - title: 生信技能树
           url: http://www.biotrainee.com/
-          logo: 生信技能树.jpg
+          logo: b/biotrainee.jpg
           description: 帮助每一位生信人构建最完善的生信技能树。
         - title: BioLinkX
           url: https://biolinkx.cn/
-          logo: biolinks.png
+          logo: b/biolinks.png
           description: BioLinkX 生物信息学协会。
+        - title: BioAnno
+          url: https://bioanno.com/
+          logo: b/bioanno.jpg
+          description: TBtools 技能易物社区。
     - term: 技术社区
       links:
         - title: 开源中国
           url: https://www.oschina.net/
-          logo: 开源中国.webp
+          logo: o/oschina.webp
           description: 中文开源技术交流社区。
         - title: 'Stack Overflow'
           url: https://stackoverflow.com/
-          logo: stackoverflow.png
+          logo: s/stackoverflow.png
           description: 'Where Developers Learn, Share, & Build Careers.'
         - title: 简书
           url: https://www.jianshu.com/
@@ -395,7 +399,7 @@
           description: 简书 - 创作你的创作。
         - title: 稀土掘金
           url: https://juejin.cn/
-          logo: 稀土掘金.png
+          logo: j/juejin.png
           description: 掘金 - 代码不止，掘进不停。
         - title: CSDN
           url: https://www.csdn.net/
@@ -403,11 +407,11 @@
           description: CSDN - 专业开发者社区。
         - title: InfoQ
           url: https://www.infoq.cn/
-          logo: infoq.png
+          logo: i/infoq.png
           description: 旨在促进软件开发领域知识与创新的传播。
         - title: SegmentFault
           url: https://segmentfault.com/
-          logo: segmentfault.png
+          logo: s/segmentfault.png
           description: 思否，开发者技术社区。
         - title: 花粉俱乐部
           logo: 华为云.png
@@ -435,7 +439,7 @@
           description: 国内活跃的经济、管理、金融、统计在线教育和咨询网站。  
         - title: 统计之都
           url: https://cosx.org/
-          logo: 统计之都.png
+          logo: c/cosx.png
           description: 一个旨在推广与应用统计学知识的网站和社区。
     - term: 悠闲平台
       links:
@@ -453,11 +457,11 @@
           description: 豆瓣社区。    
         - title: 虎扑社区
           url: https://bbs.hupu.com/
-          logo: 虎扑.png
+          logo: h/hupu-bbs.png
           description: 以体育赛事和日常生活为主的专业直文化社区。
         - title: NGA 玩家社区
           url: https://bbs.nga.cn/
-          logo: nga.png
+          logo: n/nga-bbs.png
           description: 国内专业的游戏玩家社区。
         
 - taxonomy: 悠闲娱乐
@@ -503,15 +507,15 @@
       links:
         - title: 语雀
           url: https://www.yuque.com/
-          logo: 语雀.webp
+          logo: y/yuque.webp
           description: 专业的云端知识库。
         - title: 石墨文档
           url: https://shimo.im/
-          logo: 石墨文档.png
+          logo: s/shimo.webp
           description: 支持多人协作的在线文档编辑工具。
         - title: 腾讯文档
           url: https://docs.qq.com/
-          logo: 腾讯文档.png
+          logo: d/docs-qq.png
           description: 腾讯文档 - 官方网站。
         - title: ProcessOn
           logo: ProcessOn.png
@@ -519,15 +523,15 @@
           description: 免费在线作图、实时协作。
         - title: 幕布
           url: https://mubu.com/
-          logo: 幕布.jpg
+          logo: m/mubu.jpg
           description: 极简大纲笔记，可以一键生成思维导图。
         - title: 百度脑图
           url: https://naotu.baidu.com/
-          logo: 百度脑图.png
+          logo: n/naotu-baidu.webp
           description: 百度便捷的在线思维导图制作工具。
         - title: GitMind
           url: https://gitmind.cn/
-          logo: getmind.png
+          logo: g/getmind.png
           description: 好用的全平台思维导图软件。
         - title: tinypng
           url: https://tinypng.com/
@@ -561,19 +565,19 @@
       links:
         - title: 腾讯问卷
           url: https://wj.qq.com/
-          logo: 腾讯问卷.png
+          logo: w/wj-qq.png
           description: 免费好用的问卷调查系统。
         - title: 草料二维码
           url: https://cli.im/
-          logo: 草料二维码.png
+          logo: c/cli-im.png
           description: 将不同类型的内容生成二维码。
         - title: 'SM.MS'
           url: https://sm.ms/
-          logo: smms.png
+          logo: s/smms.png
           description: 免费图床工具。
         - title: ImgURL
           url: https://www.imgurl.org/
-          logo: imgurl.png
+          logo: i/imgurl.png
           description: 免费图片外链工具。
     - term: 谷歌插件
       links:
