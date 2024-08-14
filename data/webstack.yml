@@ -28,7 +28,7 @@
       url: https://www.cncb.ac.cn
       description: 国家生物信息中心。
     - title: 关注我们
-      logo: q/qrcode.jpg
+      logo: q/qrcode.png
       url: https://bioitee.com
       qrcode: https://static.bioitee.com/webstack/logos/qrcode.jpg
       description: '公众号: BioIT爱好者！'
