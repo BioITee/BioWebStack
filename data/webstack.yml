@@ -28,7 +28,7 @@
       url: https://www.cncb.ac.cn
       description: 国家生物信息中心。
     - title: 关注我们
-      logo: qrcode.jpg
+      logo: q/qrcode.jpg
       url: https://bioitee.com
       qrcode: https://static.bioitee.com/webstack/logos/qrcode.jpg
       description: '公众号: BioIT爱好者！'
@@ -36,7 +36,7 @@
 - taxonomy: 生物数据库
   icon: fas fa-dna fa-lg
   list:
-    - term: 蛋白质数据库
+    - term: 蛋白质
       links:
         - title: Human protein atlas
           logo: proteinatlas.webp
@@ -191,7 +191,7 @@
           description: 百度飞桨深度学习框架。
         - title: 临床生信之家
           url: https://www.aclbi.com/
-          logo: aclbi.jpg
+          logo: a/aclbi.jpg
           description: 生信之美，每一个科研者都值得拥有。
     - term: 文献互助
       links: 
