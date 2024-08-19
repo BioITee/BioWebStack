@@ -9,7 +9,7 @@ jobs:
   deploy: 
     runs-on: ubuntu-20.04	# 在什么环境运行任务
     steps:
-      - uses: actions/checkout@v3	# 引用actions/checkout这个action，与所在的github仓库同名
+      - uses: actions/checkout@v4	# 引用actions/checkout这个action，与所在的github仓库同名
         with:
          submodules: true  # Fetch Hugo themes (true OR recursive) 获取submodule主题
          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
@@ -24,7 +24,7 @@ jobs:
         run: hugo --minify	# 使用 hugo 构建静态网页
 
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3  	# 一个自动发布github pages的action
+        uses: peaceiris/actions-gh-pages@v4  	# 一个自动发布github pages的action
         with:
           external_repository: bioitee/BioWebStack	# 发布到哪个repo
           #1. 创建Personal_Access_Token：GitHub 个人账号 -> Settings -> Developer settings -> Personal access tokens
