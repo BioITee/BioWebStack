@@ -163,6 +163,10 @@
           logo: w/weishengxin.webp
           url: http://www.bioinformatics.com.cn/
           description: 您身边的数据分析、可视化专家。
+        - title: ChiPlot
+          logo: c/chiplot-online.webp
+          url: https://www.chiplot.online/
+          description: 'chiplot.online.'
     - term: 科研在线
       links:
         - title: NCBI BLAST
